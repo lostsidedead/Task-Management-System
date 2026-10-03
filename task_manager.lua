@@ -1,5 +1,5 @@
 -- Project: Task Management System
--- Author: Yassine Fejrit
+-- Author: LostSideDead 
 -- Description: A feature-rich task management system written in Lua with an emphasis on modularity and functionality.
 
 -- Module: Task (defines the structure and behavior of tasks)
